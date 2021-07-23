@@ -1,0 +1,16 @@
+# https://bukkit.gamepedia.com/Plugin_YAML
+
+name: Limbo
+version: 1.0
+api-version: 1.17
+description: limbo
+authors: [Paddymadge]
+
+main: Main
+
+commands:
+
+permissions:
+  hub.admin:
+    description: Gives admin permissions
+
